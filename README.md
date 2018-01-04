@@ -16,9 +16,11 @@ A concise [Mantle](https://github.com/Mantle/Mantle)-like way of working with [R
 
 ## Installation
 
+Works with Realm version 3.0.2
+
 Add the following to your [CocoaPods](http://cocoapods.org/) Podfile
 
-    pod 'Realm+JSON', '~> 0.2'
+    pod 'Realm+JSON', :git => 'https://github.com/SebastianKumor/Realm-JSON'
 
 or clone as a git submodule,
 
